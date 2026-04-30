@@ -1,0 +1,18 @@
+\contentsline {section}{Introduction}{2}{section*.1}%
+\contentsline {subsection}{About Me}{2}{section*.2}%
+\contentsline {subsection}{Background and Interests}{2}{section*.3}%
+\contentsline {subsection}{Code Contribution}{3}{section*.4}%
+\contentsline {section}{Project Information}{4}{section*.5}%
+\contentsline {subsection}{Project Abstract}{4}{section*.6}%
+\contentsline {subsection}{Project Scope}{4}{section*.7}%
+\contentsline {subsubsection}{In Scope}{4}{section*.8}%
+\contentsline {subsubsection}{Not in Scope}{4}{section*.9}%
+\contentsline {subsection}{Detailed description}{4}{section*.10}%
+\contentsline {subsubsection}{Improvement of current QS features}{5}{section*.11}%
+\contentsline {subsubsection}{Integration of QS features into FLOSS}{8}{section*.13}%
+\contentsline {subsubsection}{Creating an interactive GUI to display strings}{13}{section*.15}%
+\contentsline {subsubsection}{Documentation}{17}{section*.17}%
+\contentsline {subsection}{Weekly timeline}{17}{section*.18}%
+\contentsline {section}{Future Plans}{19}{section*.19}%
+\contentsline {section}{Availability}{19}{section*.20}%
+\contentsline {section}{AI Disclosure}{19}{section*.21}%
